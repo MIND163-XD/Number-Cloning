@@ -18,7 +18,7 @@ pip2 install bs4
 
 rm -rf 
 
-git clone https://github.com/SABBIR404-CYBER/Number-Cloning
+git clone https://github.com/MIND163-XD/Number-Cloning
 
 cd Number-Cloning
 
